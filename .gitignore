@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.next/
+node_modules/
+dist/
+coverage/
+.env
+.env.local
+minio/
+postgres-data/
+spark-warehouse/
+
